@@ -45,9 +45,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/EsalaMapa/EsalaMapa/output/snake.svg" alt="Snake animation" />
-
-###
